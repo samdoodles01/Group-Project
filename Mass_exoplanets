@@ -1,4 +1,4 @@
-# Extract parameters from best fit
+# Getting parameters from best fit
 K1, P1, _, K2, P2, _, _ = popt2
 M_star = 0.905  # from NASA Exoplanet Archive for 55 Cnc, in solar masses
 
